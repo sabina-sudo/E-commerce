@@ -1,0 +1,32 @@
+#logo{
+    width: 150px;
+}
+header img{
+    margin: 10px;
+}
+img{
+    width: 200px;
+}
+section div a {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+section div{
+    border: 2px solid black;
+    flex-basis: 30%;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+    
+    
+    
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
